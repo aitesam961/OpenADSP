@@ -1,5 +1,8 @@
-# OpenADSP
-An Embedded Digital Signal Processing Device for Audio signals.
+<p align="center">
+  <img width="1100" src="Readme Docs/banner.png" alt="Material Bread logo">
+</p>
+
+>An Embedded Digital Signal Processing Device for Audio signals.
 
 ## Table of contents
 * [Description](#Description)
