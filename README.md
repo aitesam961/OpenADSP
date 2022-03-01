@@ -2,6 +2,8 @@
   <img width="1100" src="Readme Docs/banner.png" alt="Material Bread logo">
 </p>
 
+### Under Progress.......
+
 > An Embedded Digital Signal Processing Device for Audio signals.
 
 ## Table of contents
@@ -29,9 +31,17 @@ The DSP scripts could be implemented in the firmware.
 </p>
 
 ## Block Diagram
+The Block Diagram Illustrates the connectivity inside The Board.
+<p align="center">
+  <img width="600" src="Documents\OpenADSP_BLD.jpg">
+</p>
 
 ## Working Explained
 ## Ordering Boards
+You Can manufacture the PCBs from PCBWay.
+
+### Placing Order at PCBWay
+
 ## Assembly Guide
 ## Flashing Firmware
 ## Contribution
