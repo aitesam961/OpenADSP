@@ -37,6 +37,24 @@ The Block Diagram Illustrates the connectivity inside The Board.
 </p>
 
 ## Working Explained
+This device is Designed for Digital Signal Processing applications.
+The idea is to take Audio Data from a microphone, process it & Transmit to client devices.
+#### What Type of Processing?
+It features an STM32L432 Microcontroller with an ARM Cortex M4F (aka Black Pill). The device can be programmed to Apply Digital Filters and Effects on the audio data.
+The very basic example is a Low Pass & High Pass filters.
+The Incoming Audio Signal is converted to Digital (By ADC) and then Passed to STM32 which Applies programmed filters.
+
+
+### Connectivity
+The device is loaded with Two modes of communication.
+
+* Bluetooth (2.4GHz)
+* USB 2.0
+
+The device is capable of Reading Data, applying filters and then Sending it wirelessly over to a Bluetooth Client
+OR 
+It Can be used as a USB OTG host device to send data stream over USB 2.0 Interface.
+
 ## Ordering Boards
 You Can manufacture the PCBs from PCBWay.
 
