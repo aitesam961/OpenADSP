@@ -11,8 +11,8 @@
 * [Block Diagram](https://github.com/maitesam/OpenADSP/blob/main/README.md#block-diagram)
 * [Working Explained](##Working-Explained)
 * [Ordering Boards](##Ordering-Boards)
-* [Assembly](##Assembly)
-* [Flashing Firmware](##Flashing-Firmware)
+* [Assembly](#Assembly)
+* [Flashing Firmware](https://github.com/maitesam/OpenADSP/blob/main/README.md#Flashing-Firmware)
 * [Contribution](##Contribution)
 * [License](##License)
 
