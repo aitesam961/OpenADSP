@@ -87,7 +87,29 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 ## Roadmap
-[x][Concept Proof]
+[x] [Concept Proof](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
+
+[x] [Finalizing The Idea](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
+
+[x] [Research & Information](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
+
+[x] [Schematic](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
+
+[x] [PCB Design](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
+
+[ ] [Firmware Development](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
+
+[ ] [Validation & Testing](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
+
+[x] [Documentation](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
+
+[ ] [Improvements](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
+
+
+
+
+
+
 
 ## License
 
