@@ -1,8 +1,13 @@
+
+[![Issues](https://img.shields.io/github/issues/maitesam/OpenADSP)](https://github.com/maitesam/OpenADSP/actions)
+[![Forks](https://img.shields.io/github/forks/maitesam/OpenADSP)](https://github.com/maitesam/OpenADSP/actions)
+[![Stars](https://img.shields.io/github/stars/maitesam/OpenADSP)](https://github.com/maitesam/OpenADSP/actions)
+[![License](https://img.shields.io/github/license/maitesam/OpenADSP)](https://github.com/maitesam/OpenADSP/blob/main/LICENSE)
+
 <p align="center">
   <img width="1100" src="Readme Docs/banner.png" alt="Material Bread logo">
 </p>
 
-### !!! Caution:Readme Under Progress.......
 
 > An Embedded Digital Signal Processing Device for Audio signals.
 
@@ -61,33 +66,35 @@ You Can manufacture the PCBs from PCBWay.
 
 Note: I am not affiliated with PCBWay. However, I just like their service and build quality.
 
-### Placing Order at PCBWay
 
 ## Assembly Guide
 Please Refer to [Hardware Readme](https://github.com/maitesam/OpenADSP/blob/main/Hardware/Readme.md) for Assembly Instructions.
 
-
 ## Flashing Firmware
 Please Refer to [Hardware Readme](https://github.com/maitesam/OpenADSP/blob/main/Firmware/Readme.md) to find more details about Flashing FIrmware.
 
-## Contribution
+## Contributions
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## Roadmap
+[x][Concept Proof]
 
 ## License
 
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-- Badges 
-- Logo
-- Gif
-- Installation 
-- User Guide
-- Additional
-- Contribution
-- License
-
-
-
-## Coming Soon........
 
 
 * [Jump To Start](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
