@@ -26,8 +26,8 @@ The DSP scripts could be implemented in the firmware.
 
 ## Preview
 <p align="center">
-  <img width="600" src="Images\Top_Flat.png">
-  <img width="600" src="Images\Bottom_Flat.png" alt="Material Bread logo">
+  <img width="500" src="Images\Top_Flat.png">
+  <img width="500" src="Images\Bottom_Flat.png" alt="Material Bread logo">
 </p>
 
 ## Block Diagram
@@ -57,15 +57,21 @@ It Can be used as a USB OTG host device to send data stream over USB 2.0 Interfa
 
 ## Ordering Boards
 You Can manufacture the PCBs from PCBWay.
+[Check Out PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=440401)
+
+Note: I am not affiliated with PCBWay. However, I just like their service and build quality.
 
 ### Placing Order at PCBWay
 
 ## Assembly Guide
-Please Refer to 
+Please Refer to [Hardware Readme](https://github.com/maitesam/OpenADSP/blob/main/Hardware/Readme.md) for Assembly Instructions.
 
 
 ## Flashing Firmware
+Please Refer to [Hardware Readme](https://github.com/maitesam/OpenADSP/blob/main/Firmware/Readme.md) to find more details about Flashing FIrmware.
+
 ## Contribution
+
 ## License
 
 
