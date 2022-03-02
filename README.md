@@ -61,6 +61,9 @@ You Can manufacture the PCBs from PCBWay.
 ### Placing Order at PCBWay
 
 ## Assembly Guide
+Please Refer to 
+
+
 ## Flashing Firmware
 ## Contribution
 ## License
