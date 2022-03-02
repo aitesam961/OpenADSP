@@ -87,7 +87,7 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 ## Roadmap
-[x] [Concept Proof](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
+[x] [Concept Proof](https://twitter.com/aitesam961)
 
 [x] [Finalizing The Idea](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
 
@@ -106,6 +106,8 @@ Don't forget to give the project a star! Thanks again!
 [ ] [Improvements](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
 
 
+* [x] [FPGAs](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
+* [ ] [Verilog](https://en.wikipedia.org/wiki/Verilog)
 
 
 
