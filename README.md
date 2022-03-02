@@ -8,7 +8,7 @@
 
 ## Table of contents
 * [Description](##Description)
-* [Block Diagram](##Block-Diagram)
+* [Block Diagram](https://github.com/maitesam/OpenADSP/blob/main/README.md#block-diagram)
 * [Working Explained](##Working-Explained)
 * [Ordering Boards](##Ordering-Boards)
 * [Assembly](##Assembly)
