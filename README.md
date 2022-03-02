@@ -7,14 +7,14 @@
 > An Embedded Digital Signal Processing Device for Audio signals.
 
 ## Table of contents
-* [Description](##Description)
+* [Description](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
 * [Block Diagram](https://github.com/maitesam/OpenADSP/blob/main/README.md#block-diagram)
-* [Working Explained](##Working-Explained)
-* [Ordering Boards](##Ordering-Boards)
-* [Assembly](#Assembly)
+* [Working Explained](https://github.com/maitesam/OpenADSP/blob/main/README.md#Working-Explained)
+* [Ordering Boards](https://github.com/maitesam/OpenADSP/blob/main/README.md#Ordering-Boards)
+* [Assembly](https://github.com/maitesam/OpenADSP/blob/main/README.md#Assembly)
 * [Flashing Firmware](https://github.com/maitesam/OpenADSP/blob/main/README.md#Flashing-Firmware)
-* [Contribution](##Contribution)
-* [License](##License)
+* [Contribution](https://github.com/maitesam/OpenADSP/blob/main/README.md#Contribution)
+* [License](https://github.com/maitesam/OpenADSP/blob/main/README.md#License)
 
 
 ## Description
