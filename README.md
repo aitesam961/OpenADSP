@@ -68,10 +68,10 @@ Note: I am not affiliated with PCBWay. However, I just like their service and bu
 
 
 ## Assembly Guide
-Please Refer to [Hardware Readme](https://github.com/maitesam/OpenADSP/blob/main/Hardware/Readme.md) for Assembly Instructions.
+Please Refer to [Hardware Readme](https://github.com/maitesam/OpenADSP/blob/main/Hardware) for Assembly Instructions.
 
 ## Flashing Firmware
-Please Refer to [Firmware Readme](https://github.com/maitesam/OpenADSP/blob/main/Firmware/Readme.md) to find more details about Flashing FIrmware.
+Please Refer to [Firmware Readme](https://github.com/maitesam/OpenADSP/tree/main/Firmware) to find more details about Flashing FIrmware.
 
 ## Contributions
 
