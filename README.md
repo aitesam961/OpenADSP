@@ -31,8 +31,8 @@ The DSP scripts could be implemented in the firmware.
 
 ## Preview
 <p align="center">
-  <img width="500" src="Images\Top_Flat.png">
-  <img width="500" src="Images\Bottom_Flat.png" alt="Material Bread logo">
+  <img width="400" src="Images\Top_Flat.png">
+  <img width="400" src="Images\Bottom_Flat.png" alt="Material Bread logo">
 </p>
 
 ## Block Diagram
