@@ -9,7 +9,8 @@
 </p>
 
 
-> An Embedded solution for Digital Signal Processing Applications in Audio Domain. 
+> An Embedded solution for Digital Signal Processing Applications for Audio signals.
+
 
 ## Table of contents
 * [Description](https://github.com/maitesam/OpenADSP/blob/main/README.md#Description)
