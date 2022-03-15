@@ -30,7 +30,7 @@ Aside from this, the device can stream data to host computer over USB interface.
 The PCB embedds a STM32L432 MCU which is extremely capable of handling Demanding tasks such as Digital Signal Processing.
 The DSP scripts could be implemented in the firmware.
 
-## Preview
+## Preview 
 <p align="center">
   <img width="400" src="Images\Top_Flat.png">
   <img width="400" src="Images\Bottom_Flat.png" alt="Material Bread logo">
@@ -88,6 +88,7 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 ## Roadmap
+
 * [x] Concept Proof
 * [x] Research & Information
 * [x] Finalizing The Idea
