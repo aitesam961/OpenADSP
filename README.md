@@ -74,7 +74,7 @@ Please Refer to [Hardware Readme](https://github.com/maitesam/OpenADSP/blob/main
 ## Flashing Firmware
 Please Refer to [Firmware Readme](https://github.com/maitesam/OpenADSP/tree/main/Firmware) to find more details about Flashing FIrmware.
 
-## Contributions
+### Contributions
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
