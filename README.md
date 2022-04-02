@@ -9,7 +9,8 @@
 </p>
 
 
-> An Embedded solution for Digital Signal Processing Applications for Audio signals.
+
+> An Embedded solution for Digital Signal Processing Applications in Audio signal processing.
 
 
 ## Table of contents
