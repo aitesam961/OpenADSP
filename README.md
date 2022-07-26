@@ -46,6 +46,8 @@ The Block Diagram Illustrates the connectivity inside The Board.
 ## Working Explained
 This device is Designed for Digital Signal Processing applications.
 The idea is to take Audio Data from a microphone, process it & Transmit to client devices.
+
+
 #### What Type of Processing?
 It features an STM32L432 Microcontroller with an ARM Cortex M4F (aka Black Pill). The device can be programmed to Apply Digital Filters and Effects on the audio data.
 The very basic example is a Low Pass & High Pass filters.
