@@ -104,8 +104,82 @@ Don't forget to give the project a star! Thanks again!
 
 
 
+## File Tree
 
+```
+.
+├── Datasheets
+│   ├── AP2112-3.3V.pdf
+│   ├── nRF24L01.pdf
+│   ├── Readme.md
+│   ├── SRV05-4-D.PDF
+│   ├── stm32l432kb.pdf
+│   └── tlv320aic3100 codec.pdf
+├── Documents
+│   ├── Code_Print.pdf
+│   ├── ibom.html
+│   ├── OpenADSP_BLD.jpg
+│   ├── OpenADSP_BLD.png
+│   ├── PCB Layers
+│   │   ├── Audio_Processing_HW_V1.0-B_Adhesive.svg
+│   │   ├── Audio_Processing_HW_V1.0-B_Cu.svg
+│   │   ├── Audio_Processing_HW_V1.0-B_Mask.svg
+│   │   ├── Audio_Processing_HW_V1.0-B_Paste.svg
+│   │   ├── Audio_Processing_HW_V1.0-B_Silkscreen.svg
+│   │   ├── Audio_Processing_HW_V1.0-Edge_Cuts.svg
+│   │   ├── Audio_Processing_HW_V1.0-F_Adhesive.svg
+│   │   ├── Audio_Processing_HW_V1.0-F_Cu.svg
+│   │   ├── Audio_Processing_HW_V1.0-F_Mask.svg
+│   │   ├── Audio_Processing_HW_V1.0-F_Paste.svg
+│   │   └── Audio_Processing_HW_V1.0-F_Silkscreen.svg
+│   ├── PCB_LayerWise_Export.pdf
+│   └── Schematic_OpenADSP.pdf
+├── Firmware
+│   ├── OpenADSP Debug.launch
+│   ├── OpenADSP.ioc
+│   ├── Readme.md
+│   ├── STM32L432KBUX_FLASH.ld
+│   └── temp.html
+├── Hardware
+│   ├── Analog Filters.kicad_sch
+│   ├── Audio_Processing_HW_V1.0.kicad_pcb
+│   ├── Audio_Processing_HW_V1.0.kicad_pro
+│   ├── Audio_Processing_HW_V1.0.kicad_sch
+│   ├── MCU.kicad_sch
+│   ├── Power & USB.kicad_sch
+│   ├── Readme.md
+│   ├── STM32 MCU.kicad_sch
+│   ├── untitled.kicad_sch
+│   ├── USB&POWER.kicad_sch
+│   └── Wireless Tranceiver.kicad_sch
+├── Images
+│   ├── Bottom_Flat.png
+│   ├── Side_Front_view.jpg
+│   └── Top_Flat.png
+├── LICENSE
+├── Mechanical_Files
+│   ├── Audio_Processing_HW_V1.0.step
+│   ├── Audio_Processing_HW_V1.0.wrl
+│   └── readme.txt
+├── Readme Docs
+│   ├── banner.png
+│   ├── ezgif.com-gif-maker.gif
+│   ├── icon-5974829_1280.png
+│   ├── OpenADSP BOM and 6 more pages - Personal - Microsoft​ Edge 2022-03-02 17-06-42_Trim.mp4
+│   ├── OpenADSP.jpg
+│   ├── OpenADSP.png
+│   └── sound-1837425_1280.png
+├── README.md
+└── Reference Files
+    ├── an4157-stm32f3discovery-peripheral-firmware-examples-stmicroelectronics.pdf
+    ├── Deleteme.html
+    ├── en.MB1035-F303C-C01_Schematic.pdf
+    ├── en.MB1035-F303C-D01_Schematic.pdf
+    └── en.MB1035-F303C-E02_Schematic.pdf
 
+9 directories, 59 files
+
+```
 ## License
 
 This Project is designed under General Public License V3.0 See `LICENSE.txt` for more information.
