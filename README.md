@@ -182,7 +182,7 @@ Don't forget to give the project a star! Thanks again!
 ```
 ## License
 
-This Project is designed under General Public License V3.0 See `LICENSE.txt` for more information.
+This Project is published under General Public License V3.0 See `LICENSE.txt` for more information.
 > https://www.gnu.org/licenses/quick-guide-gplv3.html
 
 <p align="right">(<a href="#top">back to top</a>)</p>
